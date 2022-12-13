@@ -14,13 +14,13 @@
 </head>
 <body>
 <!-- Page Preloder -->
-{{--<div id="preloder">--}}
-{{--    <div class="loader"></div>--}}
-{{--</div>--}}
+<div id="preloder">
+    <div class="loader"></div>
+</div>
 <main>
-
+    @include('layout.elements.header')
     @yield('main')
 </main>
-@yield('footer')
+@include('layout.elements.footer')
 </body>
 </html>

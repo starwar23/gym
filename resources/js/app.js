@@ -1,1 +1,9 @@
-import './bootstrap';
+import './assets/jquery-3.3.1.min';
+import './assets/bootstrap.min';
+import './assets/jquery.magnific-popup.min';
+import './assets/jquery.nice-select.min';
+import './assets/jquery.slicknav';
+import './assets/mixitup.min';
+import './assets/owl.carousel.min';
+import './assets/masonry.pkgd.min';
+import './assets/main';
