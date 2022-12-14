@@ -379,7 +379,16 @@ ol {
     float: left;
 
     a {
+        color: #ffffff;
+        font-size: 16px;
+        text-transform: uppercase;
+        font-weight: 500;
         display: inline-block;
+
+        span {
+            display: inline-block;
+            margin-left: 5px;
+        }
     }
 }
 

@@ -3,6 +3,7 @@
         <div class="logo">
             <a href="{{route('page.home')}}">
                 <img src="img/logo.png" alt="">
+                <span>GYM</span>
             </a>
         </div>
         <div class="top-social">
@@ -16,10 +17,10 @@
             <div class="nav-menu">
                 <nav class="mainmenu mobile-menu">
                     <ul>
-                        <li class="active"><a href="{{route('page.home')}}">Home</a></li>
-                        <li><a href="{{route('page.about')}}">About us</a></li>
-                        <li><a href="{{route('page.gallery')}}">Gallery</a></li>
-                        <li><a href="{{route('page.contact')}}">Contacts</a></li>
+                        <li class="active"><a href="{{route('page.home')}}">Главная</a></li>
+                        <li><a href="{{route('page.about')}}">О нас</a></li>
+                        <li><a href="{{route('page.gallery')}}">Галерея</a></li>
+                        <li><a href="{{route('page.contact')}}">Контакты</a></li>
                     </ul>
                 </nav>
             </div>

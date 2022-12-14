@@ -8,9 +8,9 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="hero-text">
-                                <h2>Join Us Now</h2>
-                                <h1>FITNESS & SPORT</h1>
-                                <a href="#" class="primary-btn">Read More</a>
+                                <h2>Присоединяйтесь к нам сейчас</h2>
+                                <h1>ФИТНЕС И СПОРТ</h1>
+                                <a href="#" class="primary-btn">Читать далее</a>
                             </div>
                         </div>
                     </div>
@@ -21,9 +21,9 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="hero-text">
-                                <h2>Join Us Now</h2>
-                                <h1>FITNESS & SPORT</h1>
-                                <a href="#" class="primary-btn">Read More</a>
+                                <h2>Присоединяйтесь к нам сейчас</h2>
+                                <h1>ФИТНЕС И СПОРТ</h1>
+                                <a href="#" class="primary-btn">Читать далее</a>
                             </div>
                         </div>
                     </div>
@@ -34,9 +34,9 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="hero-text">
-                                <h2>Join Us Now</h2>
-                                <h1>FITNESS & SPORT</h1>
-                                <a href="#" class="primary-btn">Read More</a>
+                                <h2>Присоединяйтесь к нам сейчас</h2>
+                                <h1>ФИТНЕС И СПОРТ</h1>
+                                <a href="#" class="primary-btn">Читать далее</a>
                             </div>
                         </div>
                     </div>
@@ -49,23 +49,20 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="feature-item set-bg" data-setbg="img/feature/feature-1.jpg">
-                        <h3>GROUP CLASSES</h3>
-                        <p>The Sopranos manages to address the biases<br/> and benefits of therapy</p>
-                        <a href="#" class="primary-btn f-btn">Read More</a>
+                        <h3>ГРУППОВЫЕ ЗАНЯТИЯ</h3>
+                        <a href="#" class="primary-btn f-btn">Читать далее</a>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="feature-item set-bg" data-setbg="img/feature/feature-2.jpg">
-                        <h3>PERSONAL TRAINING</h3>
-                        <p>Strep throat is very common during the flu<br/> seasons and it can be preceded</p>
-                        <a href="#" class="primary-btn f-btn">Read More</a>
+                        <h3>ПЕРСОНАЛЬНОЕ ТРЕНИРОВКИ</h3>
+                        <a href="#" class="primary-btn f-btn">Читать далее</a>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="feature-item set-bg" data-setbg="img/feature/feature-3.jpg">
-                        <h3>Sports Nutrition</h3>
-                        <p>A Human Being’s right to life implies his right to<br/> have the free and unrestricted</p>
-                        <a href="#" class="primary-btn f-btn">Read More</a>
+                        <h3>СПОРТИВНОЕ ПИТАНИЕ</h3>
+                        <a href="#" class="primary-btn f-btn">Читать далее</a>
                     </div>
                 </div>
             </div>
@@ -76,13 +73,14 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="about-text">
-                        <h2>WELCOME TO CROSSFIT</h2>
-                        <p class="short-details">CrossFit is a cutting-edge functional fitness system that can help
-                            everyday men.</p>
-                        <p class="long-details">Success isn’t really that difficult. There is a significant portion of
-                            the population here in North America, that actually want and need success to be hard! For
-                            those of you who are serious about having more, doing more, giving more and being more.</p>
-                        <a href="#" class="primary-btn about-btn">Learn More</a>
+                        <h2>ДОБРО ПОЖАЛОВАТЬ В CROSSFIT</h2>
+                        <p class="short-details">CrossFit - это ультрасовременная функциональная фитнес-система, которая
+                            может помочь обычным мужчинам..</p>
+                        <p class="long-details">Добиться успеха на самом деле не так уж трудно. Здесь, в России, есть
+                            значительная часть населения, которая действительно хочет и нуждается в
+                            успехе, чтобы быть трудной! Для тех из вас, кто серьезно относится к тому, чтобы иметь
+                            больше, делать больше, отдавать больше и быть больше.</p>
+                        <a href="#" class="primary-btn about-btn">Узнать больше</a>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -99,9 +97,9 @@
                 <div class="row">
                     <div class="col-lg-7 m-auto text-center">
                         <div class="section-title pl-lg-4 pr-lg-4 pl-0 pr-0">
-                            <h2>Choose Your Program</h2>
-                            <p>Our Crossfit experts can help you discover new training techniques and exercises that
-                                offer a dynamic and efficient full-body workout.</p>
+                            <h2>ВЫБЕРИТЕ СВОЮ ПРОГРАММУ</h2>
+                            <p>Наши эксперты по кроссфиту могут помочь вам открыть для себя новые тренировочные техники
+                                и упражнения, которые обеспечивают динамичную и эффективную тренировку всего тела.</p>
                         </div>
                     </div>
                 </div>
@@ -111,31 +109,30 @@
             <div class="row">
                 <div class="col-lg-3 col-sm-6">
                     <div class="classes-item set-bg" data-setbg="img/classes/class-1.jpg">
-                        <h4>Crossfit Level 1</h4>
-                        <p>Sufferers around the globe will be happy to hear that there are sleep apnea remedies.</p>
-                        <a href="#" class="primary-btn class-btn">Read More</a>
+                        <h4>КРОССФИТ УРОВЕНЬ 1</h4>
+                        <p>Начальный уровень, для начинающих спортсменов</p>
+                        <a href="#" class="primary-btn class-btn">Подробнее</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="classes-item set-bg" data-setbg="img/classes/class-2.jpg">
-                        <h4>BootCamp</h4>
-                        <p>The oil, also called linseed oil, has many industrial uses – it is an important ingredient
-                        </p>
-                        <a href="#" class="primary-btn class-btn">Read More</a>
+                        <h4>УЧЕБНЫЙ ЛАГЕРЬ</h4>
+                        <p>Обучение, в спортивном лагере с опытными тренерами</p>
+                        <a href="#" class="primary-btn class-btn">Подробнее</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="classes-item set-bg" data-setbg="img/classes/class-3.jpg">
-                        <h4>Energy Blast</h4>
-                        <p>It is a very common occurrence like cold or fever depending upon your lifestyle. </p>
-                        <a href="#" class="primary-btn class-btn">Read More</a>
+                        <h4>ЭНЕРГЕТИЧЕСКИЙ ВЗРЫВ</h4>
+                        <p>Взрывная тренировка, на грани ваших возможностей </p>
+                        <a href="#" class="primary-btn class-btn">Подробнее</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="classes-item set-bg" data-setbg="img/classes/class-4.jpg">
-                        <h4>CLASSIC BODY BALANCE</h4>
-                        <p>The procedure is usually a preferred alternative to photorefractive keratectomy,</p>
-                        <a href="#" class="primary-btn class-btn">Read More</a>
+                        <h4>КЛАССИЧЕСКИЙ БОДИБИЛДИНГ</h4>
+                        <p>Создавать свое тело, каждый день, каждую минуту</p>
+                        <a href="#" class="primary-btn class-btn">Подробнее</a>
                     </div>
                 </div>
             </div>
@@ -146,7 +143,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <div class="section-title">
-                        <h2>Classtime Table</h2>
+                        <h2>РАСПИСАНИЕ ЗАНЯТИЙ</h2>
                     </div>
                 </div>
             </div>
@@ -154,12 +151,12 @@
                 <div class="col-lg-12">
                     <div class="timetable-controls">
                         <ul>
-                            <li class="active" data-tsfilter="all">all class</li>
-                            <li data-tsfilter="crossfit">crossfit</li>
-                            <li data-tsfilter="lunge">lunge ball</li>
+                            <li class="active" data-tsfilter="all">Все классы</li>
+                            <li data-tsfilter="crossfit">кроссфит</li>
+                            <li data-tsfilter="lunge">упражнение с мячом</li>
                             <li data-tsfilter="ppsr">ppsr</li>
-                            <li data-tsfilter="walls">walls</li>
-                            <li data-tsfilter="candy">candy</li>
+                            <li data-tsfilter="walls">Мэри</li>
+                            <li data-tsfilter="candy">Энджи</li>
                         </ul>
                     </div>
                 </div>
@@ -169,13 +166,13 @@
                     <thead>
                     <tr>
                         <th></th>
-                        <th>Monday</th>
-                        <th>Tuesday</th>
-                        <th>Wednesday</th>
-                        <th>Thursday</th>
-                        <th>Friday</th>
-                        <th>Saturday</th>
-                        <th>Sunday</th>
+                        <th>Понедельник</th>
+                        <th>Вторник</th>
+                        <th>Среда</th>
+                        <th>Четверг</th>
+                        <th>Пятница</th>
+                        <th>Суббота</th>
+                        <th>Воскресенье</th>
                     </tr>
                     </thead>
                     <tbody>
@@ -183,22 +180,22 @@
                         <td class="workout-time">10.00</td>
                         <td class="hover-bg ts-item" data-tsmeta="crossfit">
                             <span>10.00 - 14.00</span>
-                            <h6>Crossfit lv1</h6>
+                            <h6>кроссфит</h6>
                         </td>
                         <td></td>
                         <td class="hover-bg ts-item" data-tsmeta="crossfit">
                             <span>10.00 - 15.00</span>
-                            <h6>Crossfit lv1</h6>
+                            <h6>кроссфит</h6>
                         </td>
                         <td></td>
                         <td class="hover-bg ts-item" data-tsmeta="lunge">
                             <span>10.00 - 13.00</span>
-                            <h6>Lunge Ball Bur</h6>
+                            <h6>упражнение с мячом</h6>
                         </td>
                         <td></td>
                         <td class="hover-bg ts-item" data-tsmeta="lunge">
                             <span>10.00 - 13.30</span>
-                            <h6>Lunge Ball Bur</h6>
+                            <h6>упражнение с мячом</h6>
                         </td>
                     </tr>
                     <tr>
@@ -206,17 +203,17 @@
                         <td></td>
                         <td class="hover-bg ts-item" data-tsmeta="lunge">
                             <span>14.00 - 17.00</span>
-                            <h6>Lunge Ball Bur</h6>
+                            <h6>упражнение с мячом</h6>
                         </td>
                         <td></td>
                         <td class="hover-bg ts-item" data-tsmeta="crossfit">
                             <span>14.00 - 17.00</span>
-                            <h6>Crossfit lv1</h6>
+                            <h6>кроссфит</h6>
                         </td>
                         <td></td>
                         <td class="hover-bg ts-item" data-tsmeta="walls">
                             <span>14.00 - 15.30</span>
-                            <h6>Walls to Knees</h6>
+                            <h6>МЭРИ</h6>
                         </td>
                         <td></td>
                     </tr>
@@ -224,17 +221,17 @@
                         <td class="workout-time">16.00</td>
                         <td class="hover-bg ts-item" data-tsmeta="lunge">
                             <span>16.00 - 18.00</span>
-                            <h6>Lunge Ball Bur</h6>
+                            <h6>упражнение с мячом</h6>
                         </td>
                         <td></td>
                         <td class="hover-bg ts-item" data-tsmeta="candy">
                             <span>16.00 - 19.00</span>
-                            <h6>Candy</h6>
+                            <h6>Энджи</h6>
                         </td>
                         <td></td>
                         <td class="hover-bg ts-item" data-tsmeta="candy">
                             <span>16.00 - 19.00</span>
-                            <h6>Candy</h6>
+                            <h6>Энджи</h6>
                         </td>
                         <td class="hover-bg ts-item" data-tsmeta="ppsr">
                             <span>16.00 - 17.00</span>
@@ -249,7 +246,7 @@
                         <td class="workout-time">18.00</td>
                         <td class="hover-bg ts-item" data-tsmeta="walls">
                             <span>18.00 - 20.00</span>
-                            <h6>Walls to Knees</h6>
+                            <h6>МЭРИ</h6>
                         </td>
                         <td class="hover-bg ts-item" data-tsmeta="ppsr">
                             <span>18.00 - 20.00</span>
@@ -271,25 +268,25 @@
                         <td class="workout-time">20.00</td>
                         <td class="hover-bg ts-item" data-tsmeta="lunge">
                             <span>21.00 - 23.00</span>
-                            <h6>Lunge Ball Bur</h6>
+                            <h6>упражнение с мячом</h6>
                         </td>
                         <td class="hover-bg ts-item" data-tsmeta="walls">
                             <span>20.00 - 22.00</span>
-                            <h6>Walls to Knees</h6>
+                            <h6>МЭРИ</h6>
                         </td>
                         <td class="hover-bg ts-item" data-tsmeta="walls">
                             <span>20.30 - 23.00</span>
-                            <h6>Walls to Knees</h6>
+                            <h6>МЭРИ</h6>
                         </td>
                         <td></td>
                         <td class="hover-bg ts-item" data-tsmeta="crossfit">
                             <span>22.00 - 23.00</span>
-                            <h6>Crossfit Lv2</h6>
+                            <h6>кроссфит</h6>
                         </td>
                         <td></td>
                         <td class="hover-bg ts-item" data-tsmeta="crossfit">
                             <span>21.00 - 23.00</span>
-                            <h6>Crossfit Lv2</h6>
+                            <h6>кроссфит</h6>
                         </td>
                     </tr>
                     </tbody>
@@ -302,9 +299,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title">
-                        <h2>CHOOSE YOUR PRICING PLAN</h2>
-                        <p>These reports started to surface when Congress was having hearings about the<br/>
-                            painkiller, Vioxx. A Food and Drug Administration staff member.</p>
+                        <h2>Выберите свой тариф</h2>
                     </div>
                     <div class="toggle-option">
                         <ul>
@@ -323,34 +318,34 @@
             <div class="row">
                 <div class="col-lg-4">
                     <div class="single-price-plan">
-                        <h4>Normal</h4>
+                        <h4>обычный</h4>
                         <div class="price-plan">
-                            <h2>55 <span>$</span></h2>
-                            <p>Monthly</p>
+                            <h2>1500 <span>₽</span></h2>
+                            <p>месяц</p>
                         </div>
                         <ul>
-                            <li>Unlimited access to the gym</li>
-                            <li>1 classes per week</li>
-                            <li>FREE drinking package</li>
-                            <li>1 Free personal training</li>
+                            <li>Неограниченный доступ в тренажерный зал</li>
+                            <li>1 занятие в неделю</li>
+                            <li>Пакет с бесплатной питьевой водой</li>
+                            <li>1 Бесплатное персональное обучение</li>
                         </ul>
-                        <a href="#" class="primary-btn price-btn">Get Started</a>
+                        <a href="#" class="primary-btn price-btn">начать</a>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="single-price-plan">
-                        <h4>Professional</h4>
+                        <h4>профессиональный</h4>
                         <div class="price-plan">
-                            <h2>95 <span>$</span></h2>
-                            <p>Monthly</p>
+                            <h2>2000 <span>₽</span></h2>
+                            <p>месяц</p>
                         </div>
                         <ul>
-                            <li>Unlimited access to the gym</li>
-                            <li>2 classes per week</li>
-                            <li>FREE drinking package</li>
-                            <li>2 Free personal training</li>
+                            <li>Неограниченный доступ в тренажерный зал</li>
+                            <li>2 занятия в неделю</li>
+                            <li>Пакет с бесплатной питьевой водой</li>
+                            <li>2 бесплатных персональных тренинга</li>
                         </ul>
-                        <a href="#" class="primary-btn price-btn">Get Started</a>
+                        <a href="#" class="primary-btn price-btn">начать</a>
                         <div class="tic-text">
                             <i class="fa fa-star"></i>
                         </div>
@@ -358,18 +353,18 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="single-price-plan">
-                        <h4>Advanced</h4>
+                        <h4>Совершенный</h4>
                         <div class="price-plan">
-                            <h2>165 <span>$</span></h2>
-                            <p>Monthly</p>
+                            <h2>5000 <span>₽</span></h2>
+                            <p>месяц</p>
                         </div>
                         <ul>
-                            <li>Unlimited access to the gym</li>
-                            <li>6 classes per week</li>
-                            <li>FREE drinking package</li>
-                            <li>5 Free personal training</li>
+                            <li>Неограниченный доступ в тренажерный зал</li>
+                            <li>6 занятий в неделю</li>
+                            <li>Пакет с бесплатной питьевой водой</li>
+                            <li>5 бесплатных персональных тренировок</li>
                         </ul>
-                        <a href="#" class="primary-btn price-btn">Get Started</a>
+                        <a href="#" class="primary-btn price-btn">начать</a>
                     </div>
                 </div>
             </div>
@@ -380,8 +375,8 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title">
-                        <h2>Why People Choose Us</h2>
-                        <p>Our sport experts and latest sports equipment are the winning combination.</p>
+                        <h2>ПОЧЕМУ ВЫБИРАЮТ НАС</h2>
+                        <p>Наши спортивные эксперты и новейшее спортивное оборудование - это выигрышная комбинация.</p>
                     </div>
                 </div>
             </div>
@@ -389,49 +384,44 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="choose-item">
                         <img src="img/icons/chose-icon-1.png" alt="">
-                        <h5>Support 24/24</h5>
-                        <p>One of the best ways to make a great vacation quickly horrible is to choose the wrong
-                            accommodations for your trip. </p>
+                        <h5>Поддержка 24/24</h5>
+                        <p>Один из лучших способов сделать свою тренировку ужасной - это быть одному</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="choose-item">
                         <img src="img/icons/chose-icon-2.png" alt="">
-                        <h5>Our trainer</h5>
-                        <p>If you are an infrequent traveler you may need some tips to keep the wife happy while you are
-                            jet setting around the globe.</p>
+                        <h5>Наши тренеры</h5>
+                        <p>Всегда помогут, даже в самой сложной ситуации, они наше богатство</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="choose-item">
                         <img src="img/icons/chose-icon-3.png" alt="">
-                        <h5>Personalized sessions</h5>
-                        <p>To succeed at any endeavor, you must stay the course…no matter what the cost! Here are some
-                            surefire tips to help you on your journey.</p>
+                        <h5>Персонализированные тренировки</h5>
+                        <p>Чтобы преуспеть в любом начинании, вы должны оставаться в курсе...но неважно, чего это будет
+                            стоить!</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="choose-item">
                         <img src="img/icons/chose-icon-4.png" alt="">
-                        <h5>Our equipment</h5>
-                        <p>Rugby and Stratford-upon-Avon. Additionally, there are many things to see and do in and
-                            around Coventry itself.</p>
+                        <h5>Наше оборудование</h5>
+                        <p> Лучшее оборудовании в окрестностях, приходите убедитесь</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="choose-item">
                         <img src="img/icons/chose-icon-5.png" alt="">
-                        <h5>Classes daily</h5>
-                        <p>We would just not have the will in us to go about our daily lives. Its motivation that helps
-                            us get through the most mundane.</p>
+                        <h5>Занятия ежедневно</h5>
+                        <p>Будет свободное время, приходите, не тратье свободное время в пустую</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="choose-item">
                         <img src="img/icons/chose-icon-6.png" alt="">
-                        <h5>Focus on your health</h5>
-                        <p>But there is only so far we can go within the constraints of a family budget in building the
-                            perfect telescopic operation.</p>
+                        <h5>Контроль питания</h5>
+                        <p>Помогаем, соблюдать правильное питание, которые поможет достигнуть новых рекордов</p>
                     </div>
                 </div>
             </div>
@@ -442,7 +432,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="video-text">
-                        <h2>Gym In Dowtown New York</h2>
+                        <h2>ТРЕНАЖЕРНЫЙ ЗАЛ В ЦЕНТРЕ ГОРОДА</h2>
                         <a href="https://www.youtube.com/watch?v=X_9VoqR5ojM" class="play-btn video-popup">
                             <i class="fa fa-play"></i>
                         </a>
@@ -457,8 +447,8 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <div class="section-title">
-                        <h2>From Our Blog</h2>
-                        <p>List of all news and events that take place related to us</p>
+                        <h2>ИЗ НАШЕГО БЛОГА</h2>
+                        <p>Список всех новостей и событий, которые происходят, связанных с нами</p>
                     </div>
                 </div>
             </div>
@@ -467,40 +457,40 @@
                 <div class="col-lg-4 col-md-6 grid-item">
                     <div class="blog-item large-item set-bg" data-setbg="img/blog/blog-1.jpg">
                         <a href="#" class="blog-text">
-                            <div class="categories">Gym & Croosfit</div>
-                            <h5>Many people sign up for affiliate programs</h5>
+                            <div class="categories">Тренажерный зал и кроссфит</div>
+                            <h5>Многие люди подписываются на партнерские программы</h5>
                         </a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 grid-item">
                     <div class="blog-item instagram-item">
                         <a href="#" class="instagram-text">
-                            <div class="categories">Gym & Croosfit <i class="fa fa-instagram"></i></div>
-                            <h5>Follow Our Classes Gyming on Instagram # BodyBuilding # photo</h5>
+                            <div class="categories">Тренажерный зал и кроссфит <i class="fa fa-instagram"></i></div>
+                            <h5>Следите за нашими занятиями в тренажерном зале в Instagram # BodyBuilding # photo</h5>
                         </a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 grid-item">
                     <div class="blog-item small-item set-bg" data-setbg="img/blog/blog-2.jpg">
                         <a href="#" class="blog-text">
-                            <div class="categories">Gym & Croosfit</div>
-                            <h5>Does Hydroderm Work</h5>
+                            <div class="categories">Тренажерный зал и кроссфит</div>
+                            <h5>Работает ли кроссфит</h5>
                         </a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 grid-item">
                     <div class="blog-item large-item xls-large set-bg" data-setbg="img/blog/blog-3.jpg">
                         <a href="#" class="blog-text">
-                            <div class="categories">Gym & Croosfit</div>
-                            <h5>Many people sign up for affiliate programs</h5>
+                            <div class="categories">Тренажерный зал и кроссфит</div>
+                            <h5>Многие люди подписываются на партнерские программы</h5>
                         </a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 grid-item">
                     <div class="blog-item large-item set-bg" data-setbg="img/blog/blog-4.jpg">
                         <a href="#" class="blog-text">
-                            <div class="categories">Gym & Croosfit</div>
-                            <h5>Many people sign up for affiliate programs</h5>
+                            <div class="categories">Тренажерный зал и кроссфит</div>
+                            <h5>Многие люди подписываются на партнерские программы</h5>
                         </a>
                         <div class="play-btn">
                             <a href="https://www.youtube.com/watch?v=X_9VoqR5ojM" class="play-in-btn video-popup">
@@ -512,8 +502,8 @@
                 <div class="col-lg-4 col-md-6 grid-item">
                     <div class="blog-item small-item set-bg" data-setbg="img/blog/blog-5.jpg">
                         <a href="#" class="blog-text">
-                            <div class="categories">Gym & Croosfit</div>
-                            <h5>Your Antibiotic One Day To 10 Day Options</h5>
+                            <div class="categories">Тренажерный зал и кроссфит</div>
+                            <h5>Варианты приема вашего анаболика от одного Дня до 10 Дней</h5>
                         </a>
                     </div>
                 </div>
@@ -528,10 +518,11 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="cta-text">
-                        <h3>GeT Started Today</h3>
-                        <p>New student special! $30 unlimited Gym for the first week anh 50% of our member!</p>
+                        <h3>Начните сегодня</h3>
+                        <p>Новое специальное предложение! За 2000₽ безлимитного посещения тренажерного зала в течение
+                            первой недели и 50% для нашего участника!</p>
                     </div>
-                    <a href="#" class="primary-btn cta-btn">book now</a>
+                    <a href="#" class="primary-btn cta-btn">Начать сейчас</a>
                 </div>
             </div>
         </div>
@@ -543,20 +534,20 @@
             height="590" style="border: 0" allowfullscreen=""></iframe>
         <div class="map-contact-detalis">
             <div class="open-time">
-                <h5>Weekday:</h5>
+                <h5>Режим работы:</h5>
                 <ul>
-                    <li>Weekday: <span>06:30 - 11:00</span></li>
-                    <li>Saturday: <span>07:00 - 22:00</span></li>
-                    <li>Sunday: <span>09:00 - 18:00</span></li>
+                    <li>Будни: <span>06:30 - 11:00</span></li>
+                    <li>Суббота: <span>07:00 - 22:00</span></li>
+                    <li>Воскресенье: <span>09:00 - 18:00</span></li>
                 </ul>
             </div>
             <div class="map-contact-form">
-                <h5>Contact Us</h5>
+                <h5>связаться с нами</h5>
                 <form action="#">
-                    <input type="text" placeholder="Name">
-                    <input type="text" class="phone" placeholder="Phone">
-                    <textarea placeholder="Message"></textarea>
-                    <button type="submit" class="site-btn">Submit Now</button>
+                    <input type="text" placeholder="Имя">
+                    <input type="text" class="phone" placeholder="Телефон">
+                    <textarea placeholder="Сообщение"></textarea>
+                    <button type="submit" class="site-btn">Отправить</button>
                 </form>
             </div>
         </div>
