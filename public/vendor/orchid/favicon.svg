@@ -3,16 +3,16 @@
     <defs>
         <style>
             .favicon-top{
-            fill:url(#linear-gradient);
+                fill:url(#linear-gradient);
             }
             .favicon-bottom{
-            fill:url(#linear-gradient-2);
+                fill:url(#linear-gradient-2);
             }
 
             @media (prefers-color-scheme: dark) {
             .favicon-top, .favicon-bottom {
-            fill: #fff;
-            }
+                fill: #fff;
+                }
             }
         </style>
         <linearGradient id="linear-gradient" x1="49.93" y1="6.95" x2="10.14" y2="49.01" gradientUnits="userSpaceOnUse">

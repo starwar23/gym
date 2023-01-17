@@ -8,7 +8,7 @@ use App\Http\Controllers\PageController as PageControllerAlias;
 use Illuminate\Support\Facades\Route;
 
 Route::controller(PageControllerAlias::class)
-    ->middleware('guest:web')
+    ->middleware('web')
     ->as('page.')
     ->group(function () {
 
