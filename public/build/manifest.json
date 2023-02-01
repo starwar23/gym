@@ -1,32 +1,54 @@
 {
+    "resources/scss/app-legacy.scss": {
+        "file": "assets/app-legacy-a80c2613.js",
+        "src": "resources/scss/app-legacy.scss",
+        "isEntry": true,
+        "assets": [
+            "assets/fontawesome-webfont-7bfcab6d.eot",
+            "assets/fontawesome-webfont-2adefcbc.woff2",
+            "assets/fontawesome-webfont-ba0c59de.woff",
+            "assets/fontawesome-webfont-aa58f33f.ttf",
+            "assets/fontawesome-webfont-887407c7.svg"
+        ]
+    },
+    "resources/js/app-legacy.js": {
+        "file": "assets/app-legacy-45488fbe.js",
+        "src": "resources/js/app-legacy.js",
+        "isEntry": true
+    },
+    "vite/legacy-polyfills-legacy": {
+        "file": "assets/polyfills-legacy-a7a50246.js",
+        "src": "vite/legacy-polyfills-legacy",
+        "isEntry": true
+    },
     "resources/scss/fonts/fontawesome-webfont.eot": {
-        "file": "assets/fontawesome-webfont.7bfcab6d.eot",
+        "file": "assets/fontawesome-webfont-7bfcab6d.eot",
         "src": "resources/scss/fonts/fontawesome-webfont.eot"
     },
     "resources/scss/fonts/fontawesome-webfont.woff2": {
-        "file": "assets/fontawesome-webfont.2adefcbc.woff2",
+        "file": "assets/fontawesome-webfont-2adefcbc.woff2",
         "src": "resources/scss/fonts/fontawesome-webfont.woff2"
     },
     "resources/scss/fonts/fontawesome-webfont.woff": {
-        "file": "assets/fontawesome-webfont.ba0c59de.woff",
+        "file": "assets/fontawesome-webfont-ba0c59de.woff",
         "src": "resources/scss/fonts/fontawesome-webfont.woff"
     },
     "resources/scss/fonts/fontawesome-webfont.ttf": {
-        "file": "assets/fontawesome-webfont.aa58f33f.ttf",
+        "file": "assets/fontawesome-webfont-aa58f33f.ttf",
         "src": "resources/scss/fonts/fontawesome-webfont.ttf"
     },
     "resources/scss/fonts/fontawesome-webfont.svg": {
-        "file": "assets/fontawesome-webfont.887407c7.svg",
+        "file": "assets/fontawesome-webfont-887407c7.svg",
         "src": "resources/scss/fonts/fontawesome-webfont.svg"
     },
-    "resources/js/app.js": {
-        "file": "assets/app.29082f60.js",
-        "src": "resources/js/app.js",
+    "resources/scss/app.scss": {
+        "file": "assets/app-7d60261f.css",
+        "src": "resources/scss/app.scss",
         "isEntry": true
     },
-    "resources/scss/app.scss": {
-        "file": "assets/app.869da02a.css",
-        "src": "resources/scss/app.scss",
+    "resources/js/app.js": {
+        "file": "assets/app-e5381ef7.js",
+        "src": "resources/js/app.js",
         "isEntry": true
     }
 }
